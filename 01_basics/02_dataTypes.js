@@ -4,6 +4,6 @@
 
 let name = "Rupesh";
 let age = 22;
-let state = null;
+let state = null; // object
 
 console.table([typeof state , typeof name , typeof age , typeof undefined])
